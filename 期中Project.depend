@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1523603476 source:c:\users\bigwo\desktop\期中project\main.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<cctype>
+	<cstdlib>
+
+1524028537 source:c:\users\b1232\desktop\期中project\main.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<cctype>
+	<cstdlib>
+
